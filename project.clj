@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.9.0-RC1"]
                  [org.clojure/data.csv "0.1.4"]
                  [dk.ative/docjure "1.11.0"]
-                 [funcool/cuerdas "2.0.4"]])
+                 [funcool/cuerdas "2.0.4"]
+                 [clj-pdf "2.2.30"]])
